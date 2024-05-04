@@ -1,0 +1,270 @@
+html{
+  margin: 0.25rem;
+  font-size:16px;
+  font-family: "Inter", sans-serif;
+  box-sizing: border-box;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    overflow-x: auto;
+  
+}
+
+
+.head{
+  display: incline-flex;
+  width: 100%;
+  height: 1rem;
+  overflow: hidden;
+  flex-wrap: nowrap;
+  position: fixed;
+}
+
+.name{
+  display: inline-block;
+  padding:0rem 0.5rem;
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+  color: pink;
+  mix-blend-mode: exclusion;
+  position: relative;
+  border: solid 0.15rem cadetblue;
+  border-radius: 999rem;
+  background-color: cadetblue;
+  z-index: 999;
+  /* top:2rem; */
+}
+
+.contact{
+  display: inline-block;
+  padding:0rem 0.5rem;
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+  color: pink;
+  mix-blend-mode: exclusion;
+  position: relative;
+  border: solid 0.15rem cadetblue;
+  border-radius: 999rem;
+  background-color: cadetblue;
+  z-index: 999;
+}
+
+.area{
+  width: 42vw;
+  display: inline-flex;
+  justify-content: space-between;
+}
+
+.cd{
+  /* top:2rem; */
+  display: inline-block;
+  padding:0rem 0.5rem;
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+  color:black;
+  position: relative;
+  border: solid 0.1rem rgb(0, 0, 0);
+  border-radius: 999rem;
+  background-color: rgb(255, 255, 255);
+}
+
+.and{
+  display: inline-block;
+  padding:0rem 0.5rem;
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+  color:black;
+  position: relative;
+  border: solid 0.1rem rgb(0, 0, 0);
+  border-radius: 999rem;
+  background-color: rgb(255, 255, 255);
+  left:52%;
+}
+
+.cd-container{
+  position: fixed;
+  width: 45vw;
+  cursor: ew-resize;
+  /* margin-right: 1rem; */
+}
+
+.left-container{
+  height: 80vh;
+  width: 50vw;
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-right: 1rem;
+}
+
+.left-container::-webkit-scrollbar{
+  display: none;
+}
+
+.index{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top:1rem;
+  flex-direction: column;
+  margin-bottom: 0.25rem;
+}
+
+
+.genre{
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.type{
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  text-decoration: underline;
+  margin-bottom: 0.25rem;
+}
+
+.project{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 46vw;
+  margin-bottom: 2rem;
+}
+
+.project video{
+  width: 100%;
+  border-radius: 0.75rem;
+  box-shadow: 0.75rem 0.75rem 1.5rem 0px rgba(0, 0, 0, 0.25);
+}
+
+.text-block{
+  display: flex;
+  position: relative;
+  z-index: 999;
+}
+
+.arrow{
+  font-size:1rem;
+  margin: 0rem;
+  padding-right: 0.25rem;
+}
+
+.texts{
+  display: flex;
+  width: 50vw;
+  flex-wrap: wrap;  
+}
+
+.title{
+  width: 100%;
+  margin: 0rem;
+  font-size: 1rem;
+}
+
+.brief{
+  width: 100%;
+  margin: 0rem;
+  font-size: 0.75rem;
+}
+
+
+a {
+  text-decoration: none;
+  color:black;
+}
+
+
+#library{
+  color:#D94033;
+}
+
+#gamelog{
+  color: #0CBF07;
+}
+
+.fa{
+  display: inline-block;
+  padding:0rem 0.5rem;
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+  color:black;
+  position: relative;
+  border: solid 0.1rem rgb(0, 0, 0);
+  border-radius: 999rem;
+  background-color: rgb(255, 255, 255);
+  font-size: 1.25rem;
+}
+
+.fa-container{
+  position: fixed;
+  width: 45vw;
+  border-left: 1rem black;
+  transform: translateX(105%);
+}
+.right-container{
+  height: 80vh;
+  width: 50vw;
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-right: 1rem;
+}
+
+.right-container::-webkit-scrollbar{
+  display: none;
+}
+
+/* .img-container{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;  
+  border-radius: 0.75rem;
+  box-shadow: 0px 1rem 1rem 0px rgba(0, 0, 0, 0.25);
+} */
+
+.block{
+  display: flex;
+  width: 50vw;
+position: relative;
+flex-wrap: wrap;
+justify-content: flex-start;
+align-items: flex-start;
+}
+
+.main-carousel{
+  top:-14rem;
+  scale: 60%;
+  width: 100%;
+}
+
+
+.main-carousel img{
+  width: 100%;
+  height: 100%;
+  scale: 100%;
+  position: relative;
+}
+
+
+/* .carousel.is-fullscreen .carousel-cell {
+  height: 100%;
+}
+
+.carousel-cell {
+  width: 100%; 
+  height: 200px;
+  background: #222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel.is-fullscreen .carousel-cell {
+  height: 100%;
+}
+
+.carousel-cell img {
+  display: block;
+  max-height: 100%;
+} */

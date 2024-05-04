@@ -1,0 +1,305 @@
+[
+    {
+  
+        "name": "Cyberpunk 2077",
+    
+        "price": "298",
+      
+        "genre": ["AVG", "Social Simulation"],
+      
+        "note": "MY COVID-19 LOCKDOWN LIFE SAVER",
+      
+        "source": "animal-crossing.jpg",
+    
+        "number": 1
+        
+        },
+        
+      {
+      
+          "name": "Inscryption",
+        
+          "price": "88",
+          
+          "genre": ["Sandbox", "AVG"],
+        
+          "note": "The bugs in the physics engine can be a bit amusing at times, but my friend and I are thoroughly enjoying excavating the crusts and cores of each planet.",
+        
+          "source": "astroneer.jpg",
+    
+          "number": 2
+          
+      },
+    
+      {
+      
+        "name": "Devil May Cry",
+      
+        "price": "2",
+      
+        "genre": ["Metroidvania", "Shooting", "AVG"],
+      
+        "note": "Bought this game because I was drawn to Elsenova's visual design.",
+      
+        "source": "axiom-verge.jpeg",
+    
+        "number": 3
+        
+        },
+    
+        {
+      
+          "name": "Stardrew Valley",
+          
+          "price": "2.6",
+          
+          "genre": ["SRPG", "AVG"],
+          
+          "note": "Good game, just we lack chemistry.",
+        
+          "source": "baldursgate.jpeg",
+          
+          "number": 4
+          
+          },
+    
+      {
+      
+       "name": "Blasphemous",
+          
+      "price": "32.8",
+            
+       "genre": ["Puzzle", "AVG"],
+            
+       "note": "guess why 32.8 hrs, this games cant saved your progress",
+          
+       "source": "bokura.jpeg",
+    
+       "number": 5
+            
+      },
+
+      {
+      
+        "name": "Mundaun",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 6
+             
+       },
+       {
+      
+        "name": "World of Horror",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 7
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 8
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 9
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 10
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 11
+             
+       },      {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 12
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 13
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 14
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 15
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 16
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 17
+             
+       },{
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 18
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 19
+             
+       },
+       {
+      
+        "name": "Blasphemous",
+           
+       "price": "32.8",
+             
+        "genre": ["Puzzle", "AVG"],
+             
+        "note": "guess why 32.8 hrs, this games cant saved your progress",
+           
+        "source": "bokura.jpeg",
+     
+        "number": 20
+             
+       }
+]
