@@ -42,13 +42,13 @@ https://flickity.metafizzy.co
 
 .flickity-button {
     position: absolute;
-    background: #0cbf07;
+    background: transparent;
     border: none;
-    color: #7630d9
+    color: pink;
 }
 
 .flickity-button:hover {
-    background: #0cbf07;
+    background: cadetblue;
     cursor: pointer
 }
 
@@ -125,7 +125,7 @@ https://flickity.metafizzy.co
     width: 10px;
     height: 10px;
     margin: 0 8px;
-    background: #0cbf07;
+    background: pink;
     border-radius: 100%;
     opacity: 0;
     cursor: pointer

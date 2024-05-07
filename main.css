@@ -1,5 +1,5 @@
 html{
-  /* margin: 0.25rem; */
+  margin: 0.25rem;
   font-size:16px;
   font-family: "Inter", sans-serif;
   box-sizing: border-box;
@@ -8,9 +8,15 @@ html{
   font-style: normal;
   font-variation-settings:
     "slnt" 0;
-    /* overflow-x: auto; */
+    overflow-x: hidden;
+    /* overflow-y: hidden; */
   
 }
+
+html::-webkit-scrollbar{
+  display: none;
+}
+
 
 
 .head{
@@ -30,7 +36,7 @@ html{
   top: 0;
   left: 0;
   cursor: col-resize;
-  margin: 0rem 0.25rem;
+  padding: 0rem 0.5rem;
 
 }
 
@@ -121,7 +127,8 @@ html{
   width: 100%;
   overflow-y: auto;
   overflow-x: hidden;
-  margin-right: 1rem;
+  /* padding-right: 1rem; */
+
 }
 
 .left-container::-webkit-scrollbar{
@@ -160,7 +167,7 @@ html{
 }
 
 .project video{
-  width: 100%;
+  width: 95%;
   border-radius: 0.75rem;
   box-shadow: 0.75rem 0.75rem 1.5rem 0px rgba(0, 0, 0, 0.25);
 }
@@ -311,7 +318,17 @@ align-items: flex-start;
       overflow-x: auto;
   }
   
+  .main-carousel{
+    top:-2rem;
+    scale: 60%;
+    width: 100%;
+  }
 
+  .project video{
+    width: 100%;
+    border-radius: 0.75rem;
+    box-shadow: 0.75rem 0.75rem 1.5rem 0px rgba(0, 0, 0, 0.25);
+  }
 
 
 }
